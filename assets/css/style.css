@@ -245,59 +245,24 @@ img.project-git-human {
 }
 
 /***************************/
-/*  press page */
+/*  about page */
 /***************************/
 
-.press-item-wrapper {
-
-}
-
 .press-item {
-	background-color: #eee;
-	/*border: 2px solid black;*/
-	margin:10px 0 20px 0;
-	padding:0;
-}
-
-.press-icon {
-	margin-bottom:10px;
-	padding:20px 0 20px 0;
-	background-color:#222;
 
 }
 
-.press-icon img {
-	width:66%;
-	max-width:200px;
+.press-item-img {
+    padding: 10px;
+    background-color: #eee
 }
 
-.press-text {
-	padding:0 10px 10px 10px;
+.press-item-img img {
+    max-height: 150px;
 }
 
-.press-release-row {
-	padding-top:10px;
-	padding-bottom:10px;
-}
-
-.press-release-row.even {
-
-}
-
-.press-release-row.odd {
-	background-color:#eee;
-}
-
-.press-release-row-icon {
-	margin-bottom:10px;
-}
-
-.press-release-row-icon img{
-	width:100px;
-}
-
-.press-release-row-text {
-	text-align:justify;
+.press-item-info {
+    padding: 10px;
 }
 
 /***************************/
